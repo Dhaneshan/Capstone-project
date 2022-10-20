@@ -1,0 +1,28 @@
+.container{
+  background-image: url("https://cdn.siasat.com/wp-content/uploads/2021/05/Aadhaar.jpg");
+
+  width: 700px;
+  height:600px;
+  border-radius: 20px;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:20px ;
+  }
+  .cointainer {
+    font-family: arial;
+    font-size: 20px;
+    width: 500px;
+    height: 450px;
+    outline: solid 3px black;
+    padding: 20px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+   
+  }
+  a{
+    text-align: center;
+    margin-left: 170px;
+  }
+ 

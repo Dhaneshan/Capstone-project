@@ -1,0 +1,10 @@
+.image{
+  background-image: url("https://bgvb.in/images/banner-2015d.jpg");
+  min-height: 680px;
+  border-radius: 20px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:20px ;
+  }
